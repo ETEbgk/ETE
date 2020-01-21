@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f8b4bede-b5e1-4105-82aa-96ec9a8b3bcb" name="Default Changelist" comment="aaaa">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/.idea/新建文件夹 (2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/src/pages/Routers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/src/pages/img/loading.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/src/pages/img/loading.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/src/pages/img/login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/src/pages/img/分类.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/src/pages/img/分类.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/src/pages/img/帖子界面.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/src/pages/img/帖子界面.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/src/pages/img/我的-发帖.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/src/pages/img/我的-发帖.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/src/pages/img/我的-收藏.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/src/pages/img/我的-收藏.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/src/pages/img/我的-留言.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/src/pages/img/我的-留言.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/src/pages/img/我的.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/src/pages/img/我的.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/src/pages/img/我的学校.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/src/pages/img/我的学校.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/src/pages/img/标.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/src/pages/img/消息.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/src/pages/img/消息.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/src/pages/img/登录.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/src/pages/img/登录.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/src/pages/img/精选.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/src/pages/img/精选.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/src/pages/img/聊天页面.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/src/pages/img/聊天页面.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/src/pages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/src/pages/log&amp;res.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/src/pages/log.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/src/pages/reg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/src/pages/start.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaa/react-demo/src/setupTests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/.idea/新建文件夹 (2).iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/react-demo" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\新建文件夹\ETE\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WgtRDsIPUlEzD1HhQTuLBTTl7U" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8b4bede-b5e1-4105-82aa-96ec9a8b3bcb" name="Default Changelist" comment="" />
+      <created>1579583055643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579583055643</updated>
+      <workItem from="1579583058182" duration="2000" />
+      <workItem from="1579583078344" duration="532000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="aaaa" />
+    <option name="LAST_COMMIT_MESSAGE" value="aaaa" />
+  </component>
+</project>

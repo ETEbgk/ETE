@@ -1,0 +1,14 @@
+.body{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+.switch{
+    text-align: center;
+    width: 100%;
+    background-color: #05a59c;
+}
+Button{
+    color: #05a59c;
+    background-color: #05a59c;
+}
