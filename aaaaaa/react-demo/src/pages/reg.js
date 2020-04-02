@@ -1,9 +1,8 @@
 import React from "react";
-import {Link} from "react-router-dom";
 import QueueAnim from "rc-queue-anim";
 import 'antd/dist/antd.css';
 import {Form, Icon, Input} from "antd";
-import Log from "./log";
+
 //import  login from "img/登录.png"
 
 function hasErrors(fieldsError) {

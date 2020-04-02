@@ -14,6 +14,6 @@ export default class Start extends React.Component {
         )
     }
     DirectTo(e){
-        this.props.history.push('./log')
+        this.props.history.push('./1')
     }
 }

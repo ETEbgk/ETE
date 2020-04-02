@@ -1,0 +1,37 @@
+.yindao1_but{
+position: relative;
+}
+._main{
+
+}
+.banner-user{
+    height: 650px;
+    width: 100%;
+    position: relative;
+}
+.banner-user-img{
+    position: relative;
+
+    height: 100%;
+}
+.banner-user-elem{
+    text-align: center;
+    color: #fbfdff;
+    position: absolute;
+    overflow: hidden;
+}
+.banner-user-elem .banner-user-title{
+    font-size: 32px;
+    top: 5%;
+}
+.banner-user-elem .banner-user-text{
+    top: 5%;
+}
+.banner-anim-elem .bg{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+}
