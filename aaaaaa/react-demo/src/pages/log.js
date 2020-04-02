@@ -77,7 +77,7 @@ export default class Log extends React.Component{
                             </div>
                             <div className={'input_but'}>
                             <Form.Item>
-                                <button type="primary" disabled={hasErrors(getFieldsError())} className={'but'}>
+                                <button type="primary" disabled={hasErrors(getFieldsError())} onClick={(e) => this.Direct()}className={'but'}>
                                    登录
                                 </button>
                             </Form.Item>
@@ -91,6 +91,8 @@ export default class Log extends React.Component{
     DirectTo(e){
         this.props.history.push('./reg');
     }
-
+    Direct(e){
+        this.props.history.push('./index');
+    }
 }
 Log = Form.create({ name: 'horizontal_login' })(Log);
