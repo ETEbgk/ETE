@@ -1,0 +1,194 @@
+.bod{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.top-top{
+    width: 100%;
+    height: 1.875%;
+    background:#f0f0f0;
+}
+
+.top{
+    height: 8.59375%;
+    background:#f0f0f0;
+    display: flex;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #bfbfbf;
+}
+
+.top-book{
+    height:54px;
+    width: 18%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.top-ser{
+    height: 8.4375%;
+    width: 82%;
+    display: flex;
+    align-items: center;
+}
+
+.mid{
+    height: 31.5625%;
+    background: #f0f0f0;
+}
+
+.mid-top{
+    background: #f0f0f0;
+    height: 3.465346535%;
+}
+
+.mid-bot {
+    background: #f0f0f0;
+    height: 7.42574257%;
+}
+
+.banner-user2{
+    height: 89.10891%;
+    width: 86%;
+    margin:0 7%;
+}
+
+.banner-user-elem{
+    text-align: center;
+    overflow: hidden;
+    background: #f5f5f5;
+}
+
+.pic{
+    height: 100%;
+    width: 100%;
+}
+
+.banner-anim-elem .bg{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+}
+
+.mid2{
+    height: 6.25%;
+    display: flex;
+}
+
+.mid2-left{
+    display: flex;
+    height: 100%;
+    width: 80%;
+    justify-content: space-around;
+}
+
+.mid2-right{
+    height: 100%;
+    width: 20%;
+}
+.mid2-text{
+    margin: auto;
+    font-size: 14px;
+    font-weight: bolder;
+}
+
+.mid2-pic{
+    float: right;
+}
+
+.mid3{
+    height: 43.75%;
+    width: 100%;
+    background: #f0f0f0;
+    display: flex;
+}
+
+.mid3-left{
+    width: 50%;
+}
+
+.mid3-left-1{
+    width: 92%;
+    height: 52%;
+    margin: 6% 4% 10% 4%;
+    background: white;
+}
+
+.mid3-right{
+    width: 50%;
+}
+
+.mid3-right-1{
+    width: 92%;
+    height: 84%;
+    margin: 6% 4% 10% 4%;
+    background: white;
+}
+
+.mid3-bot{
+    display: flex;
+}
+
+.mid3-tp{
+    display: flex;
+    justify-content: center;
+}
+.mid3-tp2{
+    display: flex;
+    justify-content: center;
+    margin: 0 0 0 3px;
+}
+
+.mid3-zi1{
+    font-size: 12px;
+    font-weight: bolder;
+}
+
+.mid3-zi2{
+    font-size: 11px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mid3-zi3{
+    font-size: 9px;
+    font-family: "MV Boli";
+    display: flex;
+    align-items: center;
+    margin: 0 0 0 18%;
+}
+
+.mid3-zi4{
+    font-size: 9px;
+    float: right;
+}
+
+.bot{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 7.96875%;
+    position:absolute;
+    bottom: 0;
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-top-color: #e8e8e8;
+}
+
+.bot-menu{
+    display: flex;
+    justify-content: space-around;
+    height: 98.0392156%;
+    width: 88%;
+    position:absolute;
+    bottom: 0;
+}
