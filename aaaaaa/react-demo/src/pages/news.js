@@ -27,7 +27,7 @@ export default class Index extends React.Component{
                 <div className='tie-t'>
                     <div className='tie-t-tp'><img src={[require("./img/xx-1.png")]}/></div>
                     <div className='tie-t-2'>
-                        <div className='tie-t-hz'>
+                        <div className='tie-t-hz' >
                             <div className='tie-t-hz-head'>XX大学交流群</div>
                             <div className='tie-t-hz-bot'>同学a：大佬们帮个忙，看看这个怎么能....</div>
                         </div>
@@ -78,4 +78,5 @@ export default class Index extends React.Component{
     DirectTo3(e){
         this.props.history.push('./mine')
     }
+
 }

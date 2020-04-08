@@ -47,7 +47,7 @@ export default class fatie extends React.Component{
                             <div className={'ttop'} key={'tt'}>
                                 <div className={'topx'} key={'top'}>
                                     <div className={'return'}>
-                                        <div className={'rt'}><img src={require("./img/返回.png")} width={"8.625px"} onClick={this.onClick}/></div>
+                                        <div className={'rt'}><img src={require("./img/fanhui.png")} width={"8.625px"} onClick={this.onClick}/></div>
                                     </div>
                                     <div><button className={'fban'} >发表</button></div>
                                 </div>
@@ -62,13 +62,13 @@ export default class fatie extends React.Component{
                             <div className={'qxxl'} key={'mid'}>
                                 <div className={'qxl'}>
                                     <div><strong>权限</strong></div>
-                                    <div><img src={require("./img/校内可见.png")} width={"70px"}/> </div>
+                                    <div><img src={require("./img/xiaonei.png")} width={"70px"}/> </div>
                                 </div>
                             </div>,
                             <div className={'qxxl'} key={'mid'}>
                                 <div className={'qxl'}>
                                     <div><strong>标签</strong></div>
-                                    <div><img src={require("./img/返回 m.png")} height={"14px"}/> </div>
+                                    <div><img src={require("./img/fanhui m.png")} height={"14px"}/> </div>
                                 </div>
                             </div>,
                             <div className={'qxxl'} key={'mid'}>

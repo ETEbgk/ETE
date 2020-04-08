@@ -13,6 +13,12 @@ import Shoucang from "./shoucang";
 import Liuyan from "./liuyan";
 import Xuexiao from "./xx";
 import Fatie from "./ft";
+import Sort7 from "./sort7";
+import Sort8 from "./sort8";
+import Sort9 from "./sort9";
+import Sort10 from "./sort10";
+import Sort11 from "./sort11";
+import Sort12 from "./sort12";
 
 
 export default class Routers extends React.Component{
@@ -36,7 +42,12 @@ export default class Routers extends React.Component{
                 <Route exact path={'/ly'} component={Liuyan}/>
                 <Route exact path={'/xx'} component={Xuexiao}/>
                 <Route exact path={'/ft'} component={Fatie}/>
-
+                <Route exact path={'/sort7'} component={Sort7}/>
+                <Route exact path={'/sort8'} component={Sort8}/>
+                <Route exact path={'/sort9'} component={Sort9}/>
+                <Route exact path={'/sort10'} component={Sort10}/>
+                <Route exact path={'/sort11'} component={Sort11}/>
+                <Route exact path={'/sort12'} component={Sort12}/>
             </div>
         )
     }

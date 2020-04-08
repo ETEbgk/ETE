@@ -40,26 +40,26 @@ export default class xuexiao extends React.Component{
                         {this.state.show ?  [
                             <div className={'t-op1'} key={'t-op'}>
                                 <div className={'return'}>
-                                    <div className={'rt'}><img src={require("./img/返回.png")} width={"2.5%"} onClick={this.onClick}/></div>
+                                    <div className={'rt'}><img src={require("./img/fanhui.png")} width={"2.5%"} onClick={this.onClick}/></div>
                                 </div>
                             </div>,
                             <div className={'tt'} key={'tt'}><strong>我的学校</strong></div>,
                             <div className={'m-id'} key={'m-id'}>
                                 <div className={'xz'}>
                                     <div className={'xz1'}><strong>请选择所在学校</strong></div>
-                                    <div className={'xz2'}><img src={require("./img/返回 拷贝.png")} width={"36%"} /></div>
+                                    <div className={'xz2'}><img src={require("./img/fanhuikaobei.png")} width={"36%"} /></div>
                                 </div>
                             </div>,
                             <div className={'m-id1'} key={'m-id'}>
                                 <div className={'xz'}>
                                     <div className={'xz1'}><strong>请选择专业</strong></div>
-                                    <div className={'xz2'}><img src={require("./img/返回 拷贝.png")} width={"36%"} /></div>
+                                    <div className={'xz2'}><img src={require("./img/fanhuikaobei.png")} width={"36%"} /></div>
                                 </div>
                             </div>,
                             <div className={'m-id2'} key={'m-id'}>
                                 <div className={'xxq'}>
                                     <div className={'xxqq'}><img src={require("./img/xxq.png")} width={"30%"}/></div>
-                                    <div className={'fanhui'}><img src={require("./img/返回1.png")}width={'26%'}/> </div>
+                                    <div className={'fanhui'}><img src={require("./img/fanhui1.png")}width={'26%'}/> </div>
                                 </div>
                                 <div className={'xxql'}>
                                     <div className={'xxql1'}>
@@ -72,7 +72,7 @@ export default class xuexiao extends React.Component{
                             <div className={'m-id3'} key={'m-id'}>
                                 <div className={'xxq'}>
                                     <div className={'xxqq'}><img src={require("./img/zhuanye.png")} width={"30%"}/></div>
-                                    <div className={'fanhui'}><img src={require("./img/返回1.png")}width={'26%'}/> </div>
+                                    <div className={'fanhui'}><img src={require("./img/fanhui1.png")}width={'26%'}/> </div>
                                 </div>
                                 <div className={'xxql'}>
                                     <div className={'xxql1'}>

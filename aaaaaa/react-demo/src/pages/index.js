@@ -21,7 +21,7 @@ export default class Index extends React.Component{
             <div className='bod'>
             <div className='top-top'></div>
             <div className='top'>
-                <div className='top-book'><img src={[require("./img/菜单.png")]}/></div>
+                <div className='top-book'><img src={[require("./img/caidan.png")]}/></div>
                 <div className='top-ser'>
                     <Search
                         placeholder="点此进行搜索"
@@ -67,7 +67,7 @@ export default class Index extends React.Component{
                     <div className='mid2-text'>我的关注</div>
                 </div>
                 <div className='mid2-right'>
-                    <div className='mid2-pic'><img src={[require("./img/菜单管理.png")]}/></div></div>
+                    <div className='mid2-pic'><img src={[require("./img/caidanguanli.png")]}/></div></div>
             </div>
 
             <div className='mid3'>

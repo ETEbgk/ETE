@@ -39,7 +39,7 @@ export default class shoucang extends React.Component{
                         {this.state.show ?  [
                         <div className={'t-op1'} key={'tt'}>
                             <div className={'return'}>
-                                <div className={'rt'}><img src={require("./img/返回.png")} width={"2.5%"} onClick={this.onClick}/></div>
+                                <div className={'rt'}><img src={require("./img/fanhui.png")} width={"2.5%"} onClick={this.onClick}/></div>
                             </div>
                         </div>,
                         <div className={'tt'} key={'tt'}><strong>我的收藏</strong></div>,
@@ -63,7 +63,7 @@ export default class shoucang extends React.Component{
                                         </div>
                                     </div>
                                     <div className={'tp'}>
-                                        <img src={require("./img/材料1.png")} width={"100%"}/>
+                                        <img src={require("./img/cailiao1.png")} width={"100%"}/>
                                     </div>
                                 </div>
                             </div>
