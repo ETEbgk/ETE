@@ -61,7 +61,7 @@ export default class Sort9 extends React.Component{
                 <div className='mid3-right'>
                     <div className='mid3-right-1'>
                         <img src={[require("./img/shougong (3).jpg")]} width={"100%"} height={"85%"}/>
-                        <div className='mid3-zi1'>中国的井文化</div>
+                        <div className='mid3-zi1'>中国历史大事年表</div>
                         <div className='mid3-bot'>
                             <div className='mid3-tp'><img src={[require("./img/touxiang.png")]}/></div>
                             <div className='mid3-zi2'>ID:2354116421</div>

@@ -72,7 +72,7 @@ export default class Index extends React.Component{
 
             <div className='mid3'>
                 <div className='mid3-left'>
-                    <div className='mid3-left-1'>
+                    <div className='mid3-left-111'>
                         <img src={[require("./img/zmmyz.png")]}/>
                         <div className='mid3-zi1'>议贸易战的得失</div>
                         <div className='mid3-bot'>
@@ -84,7 +84,7 @@ export default class Index extends React.Component{
                     </div>
                 </div>
                 <div className='mid3-right'>
-                    <div className='mid3-right-1'>
+                    <div className='mid3-right-111'>
                         <img src={[require("./img/mid3-tp-1.png")]}/>
                         <div className='mid3-zi1'>中国的井文化</div>
                         <div className='mid3-bot'>

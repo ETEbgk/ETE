@@ -30,11 +30,11 @@ export default class Index extends React.Component{
             </div>
             <div className='mid2-bot'>
                 <div className='mid2-bot-tp'><img src={[require("./img/1.png")]} onClick={(e) => this.DirectTo4()}/></div>
-                <div className='mid2-bot-tp'><img src={[require("./img/2.png")]}/></div>
-                <div className='mid2-bot-tp'><img src={[require("./img/3.png")]}/></div>
-                <div className='mid2-bot-tp'><img src={[require("./img/4.png")]}/></div>
-                <div className='mid2-bot-tp'><img src={[require("./img/5.png")]}/></div>
-                <div className='mid2-bot-tp'><img src={[require("./img/6.png")]}/></div>
+                <div className='mid2-bot-tp'><img src={[require("./img/2.png")]} onClick={(e) => this.DirectTo5()}/></div>
+                <div className='mid2-bot-tp'><img src={[require("./img/3.png")]} onClick={(e) => this.DirectTo6()}/></div>
+                <div className='mid2-bot-tp'><img src={[require("./img/4.png")]} onClick={(e) => this.DirectTo7()}/></div>
+                <div className='mid2-bot-tp'><img src={[require("./img/5.png")]} onClick={(e) => this.DirectTo8()}/></div>
+                <div className='mid2-bot-tp'><img src={[require("./img/6.png")]} onClick={(e) => this.DirectTo9()}/></div>
                 <div className='mid2-bot-tp'><img src={[require("./img/7.png")]} onClick={(e) => this.DirectTo10()}/></div>
                 <div className='mid2-bot-tp'><img src={[require("./img/8.png")]} onClick={(e) => this.DirectTo11()}/></div>
                 <div className='mid2-bot-tp'><img src={[require("./img/9.png")]} onClick={(e) => this.DirectTo12()}/></div>
@@ -67,6 +67,21 @@ export default class Index extends React.Component{
     }
     DirectTo4(e){
         this.props.history.push('./sort1')
+    }
+    DirectTo5(e){
+        this.props.history.push('./sort2')
+    }
+    DirectTo6(e){
+        this.props.history.push('./sort3')
+    }
+    DirectTo7(e){
+        this.props.history.push('./sort4')
+    }
+    DirectTo8(e){
+        this.props.history.push('./sort5')
+    }
+    DirectTo9(e){
+        this.props.history.push('./sort6')
     }
     DirectTo10(e){
         this.props.history.push('./sort7')
