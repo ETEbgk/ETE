@@ -45,7 +45,7 @@ export default class mine extends React.Component{
                                type={['left','right']}
                                ease={['easeOutQuart','easeInOutQuart']}>
                         {this.state.show ?  [
-                            <div className={'top'} key={'a'}>
+                            <div className={'t-op'} key={'a'}>
                                 <div className={'title'}>
                                     <strong>我的</strong>
                                 </div>
@@ -107,7 +107,7 @@ export default class mine extends React.Component{
                                     </div>
                                     <div className={'hf'}>
                                         <div className={'hf1'}>
-                                            <img src={require("./img/pen.png")} width={"12%"} onClick={()=>this.props.history.push('./ly')}/>
+                                            <img src={require("./img/pen.png")} width={"12%"} height={"12%"} onClick={()=>this.props.history.push('./ly')}/>
                                             <div className={'hf2'} onClick={()=>this.props.history.push('./ly')}>
                                                 <div className={'hf21'}><strong>回复我的</strong></div>
                                                 <div className={'hf22'}>我在帖子下留过的言</div>
@@ -116,7 +116,7 @@ export default class mine extends React.Component{
                                     </div>
                                     <div className={'xx'}>
                                         <div className={'xx1'}>
-                                            <img src={require("./img/school.png")} width={"12%"} onClick={()=>this.props.history.push('./xx')}/>
+                                            <img src={require("./img/school.png")} width={"12%"} height={"12%"} onClick={()=>this.props.history.push('./xx')}/>
                                             <div className={'xx2'} onClick={()=>this.props.history.push('./xx')}>
                                                 <div className={'xx21'}><strong>我的学校</strong></div>
                                                 <div className={'xx22'}>选择我的学校及学校各个群组</div>
@@ -125,7 +125,7 @@ export default class mine extends React.Component{
                                     </div>
                                     <div className={'ft'}>
                                         <div className={'ft1'}>
-                                            <img src={require("./img/tiezi.png")} width={"12%"} onClick={()=>this.props.history.push('./ft')}/>
+                                            <img src={require("./img/tiezi.png")} width={"12%"} height={"12%"} onClick={()=>this.props.history.push('./ft')}/>
                                             <div className={'ft2'} onClick={()=>this.props.history.push('./ft')}>
                                                 <div className={'ft21'}><strong>发帖</strong></div>
                                                 <div className={'ft22'}>点击发帖或查看之前发的帖子</div>
@@ -146,10 +146,10 @@ export default class mine extends React.Component{
                 <div className={'botbg'}>
                     <div className='bot'>
                         <div className='bot-menu'>
-                            <div><img src={[require("./img/first1.png")]}/></div>
-                            <div onClick={()=>[this.DirectTo1()]}><img src={[require("./img/second1(1).png")]}/></div>
-                            <div onClick={()=>[this.DirectTo2()]}><img src={[require("./img/third1(1).png")]}/></div>
-                            <div onClick={()=>[this.DirectTo3()]}><img src={[require("./img/fourth2.png")]}/></div>
+                            <div onClick={()=>[this.DirectTo1()]}><img src={[require("./img/first1.png")]}/></div>
+                            <div onClick={()=>[this.DirectTo2()]}><img src={[require("./img/second1(1).png")]}/></div>
+                            <div onClick={()=>[this.DirectTo3()]}><img src={[require("./img/third1(1).png")]}/></div>
+                            <div><img src={[require("./img/fourth2.png")]}/></div>
                         </div>
                     </div>
                 </div>
@@ -165,5 +165,5 @@ export default class mine extends React.Component{
     }
     DirectTo3(e){
         this.props.history.push('./news')
-    }//链接要改一下
+    }
 }

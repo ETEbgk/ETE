@@ -116,6 +116,6 @@ export default class Index extends React.Component{
         this.props.history.push('./news')
     }
     DirectTo3(e){
-        this.props.history.push('./myself')
+        this.props.history.push('./mine')
     }
 }

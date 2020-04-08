@@ -37,7 +37,7 @@ export default class liuyan extends React.Component{
                                key="demo"
                                type={['left','left']}>
                         {this.state.show ?  [
-                            <div className={'top1'} key={'tt'}>
+                            <div className={'t-op1'} key={'tt'}>
                                 <div className={'return'}>
                                     <div className={'rt'}><img src={require("./img/返回.png")} width={"2.5%"} onClick={this.onClick}/></div>
                                 </div>
