@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52719d1b-6957-4d77-950d-3852aa346b21" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -9,6 +10,11 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -31,6 +37,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="ChangesTree.GroupingKeys" value="directory" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -80,6 +87,14 @@
       <workItem from="1585815931320" duration="5711000" />
       <workItem from="1585822657823" duration="1014000" />
       <workItem from="1585825796390" duration="1125000" />
+      <workItem from="1585970675853" duration="14197000" />
+      <workItem from="1586061497440" duration="9602000" />
+      <workItem from="1586092630533" duration="181000" />
+      <workItem from="1586095543068" duration="575000" />
+      <workItem from="1586158567431" duration="14195000" />
+      <workItem from="1586235135150" duration="19320000" />
+      <workItem from="1586270740739" duration="612000" />
+      <workItem from="1586319390967" duration="222000" />
     </task>
     <servers />
   </component>
