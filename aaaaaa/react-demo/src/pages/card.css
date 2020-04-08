@@ -1,0 +1,85 @@
+.top1{
+    width: 100%;
+    height: 30px;
+    background-color: #F0F0F0;
+}
+.top2{
+    width: 100%;
+    height: 30px;
+    display: flex;
+    background-color: #F0F0F0;
+}
+.top3{
+    width: 100%;
+    height: 55px;
+}
+.p1{
+    width: 85%;
+    margin: 0 auto;
+    font-size: large;
+}
+.top4{
+    width: 100%;
+    height: 36px;
+    display: flex
+}
+.top5{
+    width: 100%;
+    height: 30px;
+}
+.p2{
+    width: 95%;
+    margin: 0 auto;
+    font-size: 20px;
+}
+.top6{
+    width: 95%;
+    margin: 0 auto;
+    height: 300px;
+}
+.top7{
+    width: 95%;
+    margin: 0 auto;
+    height: 30px;
+}
+.top8{
+    width: 95%;
+    margin-top: 5px;
+    height: 100px;
+}
+.tu1{
+    width: 40%;
+    height: 30px;
+    margin-left: 2%;
+}
+.tu2{
+    width: 10%;
+    height: 30px;
+    margin-left: 40%;
+}
+.tu3{
+    width: 10%;
+    margin-left: 3%;
+}
+.tu4{
+    width: 30%;
+    margin-left: 40%;
+}
+.top9{
+
+    width: 95%;
+    margin: 0 auto;
+    height: 30px;
+}
+.font1{
+    font-size: small;
+}
+.top10{
+    width: 100%;
+    height: 30px;
+    display: flex;
+}
+.like{
+    width: 33%;
+    margin-left: 10%;
+}
