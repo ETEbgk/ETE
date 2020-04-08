@@ -1,10 +1,8 @@
 import React from "react";
-import "./index.css"
+import "./sort1.css"
 import { Input } from "antd";
-import BannerAnim, { Element } from 'rc-banner-anim';
-import TweenOne from 'rc-tween-one';
-import 'rc-banner-anim/assets/index.css';
-import Search from "antd/es/input/Search";
+
+const { Search } = Input;
 
 export default class Sort1 extends React.Component{
     constructor(props){
@@ -14,8 +12,11 @@ export default class Sort1 extends React.Component{
     }
     render() {
         return(
+            <body>
             <div className='sort_body'>
+                <div className='sort-top1'></div>
                 <div className='top'>
+                    <div className='top-book' onClick={()=>[this.DirectTo()]}><img src={[require("./img/fanhui.png")]}/></div>
                     <div className='top-ser'>
                         <Search
                             placeholder="点此进行搜索"
@@ -35,6 +36,27 @@ export default class Sort1 extends React.Component{
                             <div className='mid3-tp2'><img src={[require("./img/redu.png")]}/></div>
                         </div>
                     </div>
+                    <div className='mid3-left-2'>
+                        <img src={[require("./img/mid3-tp-1.png")]}/>
+                        <div className='mid3-zi1'>中国的井文化</div>
+                        <div className='mid3-bot'>
+                            <div className='mid3-tp'><img src={[require("./img/touxiang.png")]}/></div>
+                            <div className='mid3-zi2'>ID:2354116421</div>
+                            <div className='mid3-zi3'>30163</div>
+                            <div className='mid3-tp2'><img src={[require("./img/redu.png")]}/></div>
+                        </div>
+                    </div>
+                    <div className='mid3-left-3'>
+                        <img src={[require("./img/zmmyz.png")]}/>
+                        <div className='mid3-zi1'>议贸易战的得失</div>
+                        <div className='mid3-bot'>
+                            <div className='mid3-tp'><img src={[require("./img/touxiang.png")]}/></div>
+                            <div className='mid3-zi2'>ID:2462512346</div>
+                            <div className='mid3-zi3'>2874</div>
+                            <div className='mid3-tp2'><img src={[require("./img/redu.png")]}/></div>
+                        </div>
+                    </div>
+
                 </div>
                 <div className='mid3-right'>
                     <div className='mid3-right-1'>
@@ -47,9 +69,23 @@ export default class Sort1 extends React.Component{
                             <div className='mid3-tp2'><img src={[require("./img/redu.png")]}/></div>
                         </div>
                     </div>
+                    <div className='mid3-right-2'>
+                        <img src={[require("./img/mid3-tp-1.png")]}/>
+                        <div className='mid3-zi1'>中国的井文化</div>
+                        <div className='mid3-bot'>
+                            <div className='mid3-tp'><img src={[require("./img/touxiang.png")]}/></div>
+                            <div className='mid3-zi2'>ID:2354116421</div>
+                            <div className='mid3-zi3'>30163</div>
+                            <div className='mid3-tp2'><img src={[require("./img/redu.png")]}/></div>
+                        </div>
+                    </div>
                 </div>
             </div>
             </div>
+            </body>
         )
+    }
+    DirectTo(e){
+        this.props.history.push('./sort')
     }
 }
